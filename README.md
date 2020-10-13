@@ -9,6 +9,7 @@ A curated list of awesome stuff related to DIV language and DIV Games Studio.
 * [Compilers](#compilers)
 * [Tools](#tools)
 * [DLL's](#dlls)
+* [Editor Plugins](#editor-plugins)
 
 ## Community
 
@@ -35,3 +36,10 @@ A curated list of awesome stuff related to DIV language and DIV Games Studio.
 ## DLL's
 
 * [ghost.dll](https://github.com/vii1/ghost.dll) - Additive blending for DIV 2.
+
+## Editor Plugins
+
+Plugins/extensions for editors to recognize DIV language, add syntax highlighting for DIV, etc.
+
+* [Vim](https://github.com/Zardoz89/vim-div) - DIV 2/3 syntax highlighting for Vim.
+* [VSCode](https://github.com/vii1/vscode-div) - DIV 2 support fo Visual Studio Code.
