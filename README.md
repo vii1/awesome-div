@@ -10,6 +10,7 @@ A curated list of awesome stuff related to DIV language and DIV Games Studio.
 * [Tools](#tools)
 * [DLL's](#dlls)
 * [Editor Plugins](#editor-plugins)
+* [Support Libraries](#support-libraries)
 
 ## Community
 
@@ -20,6 +21,7 @@ A curated list of awesome stuff related to DIV language and DIV Games Studio.
 ## Documentation
 
 * [DIV 2 Help](https://vii1.github.io/DIV2Help/) - (ES) The original DIV 2 online help.
+* [DIV 2 Wiki](https://github.com/vii1/DIV/wiki) - (ES) Documenting the technical details of DIV 2, like structure and file formats.
 
 ## Compilers
 
@@ -42,4 +44,10 @@ A curated list of awesome stuff related to DIV language and DIV Games Studio.
 Plugins/extensions for editors to recognize DIV language, add syntax highlighting for DIV, etc.
 
 * [Vim](https://github.com/Zardoz89/vim-div) - DIV 2/3 syntax highlighting for Vim.
-* [VSCode](https://github.com/vii1/vscode-div) - DIV 2 support fo Visual Studio Code.
+* [VSCode](https://github.com/vii1/vscode-div) - DIV 2 support for Visual Studio Code.
+
+## Support Libraries
+
+Libraries and frameworks that allow other languages to interact with DIV and its resources.
+
+* [DIV2.Format.Exporter](https://github.com/VisualStudioEX3/DIV2.Format.Exporter) - Export PAL, MAP, FPG from C#/Unity.
